@@ -14,5 +14,5 @@ Don't forget to
 **sudo pacman -Syu xorg**
 to avoid dependency error.
 
-.xsession is important to be able to run using ly greeter [xinitrc]
-.xinitrc to run startx command
+### .xsession is important to be able to run using ly greeter [xinitrc]
+### .xinitrc to run startx command

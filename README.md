@@ -5,7 +5,7 @@
 
 git clone into your home folder and do 
 '''
-**sudo makepkg install**
+**sudo make clean install**
 '''
 into each file inside suckless folder
 should be good to go.
